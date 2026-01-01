@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/ffa1f49dbfd3109e54ba5e1bddd9534bf6d1cc2e84b7ee84e6e03be1a87af82f/68747470733a2f2f7374617469632e7665637465657a792e636f6d2f73797374656d2f7265736f75726365732f70726576696577732f3030312f3735392f3736382f6e6f6e5f32782f646174612d736369656e746973742d776f72642d62616e6e65722d766563746f722e6a7067)
 <h1 align="center">Hi 👋, I'm Ashish Prajapati</h1>
-<h3 align="center">Turning data, math, and code into practical projects, Focused on fundamentals → EDA → ML</h3>
+<h3 align="center">Turning data, math, and code into practical projects, focused on Fundamentals → EDA → ML</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishpra28&label=Profile%20views&color=0e75b6&style=flat" alt="ashishpra28" /> </p>
